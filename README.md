@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Gonzalo Algaba Desviat</h1>
-
-- 🔭 I’m currently studying Computer Engineering at UPM
-  
-- 👀 I’m interested in
-  
-- 🌱 I’m currently learning Deep Learning with python
   
 - 📫 How to reach me gonzaloalgabadesviat@gmail.com
 
